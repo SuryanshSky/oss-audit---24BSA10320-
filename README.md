@@ -29,5 +29,5 @@ To verify the scripts on your local Ubuntu environment, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone [](https://github.com/DashkratSrivastava/oss-audit--24BCE11239-.git)
-   cd oss-audit--24BCE11239-
+   git clone [https://github.com/SuryanshSky/oss-audit---24BSA10320-.git]
+   
