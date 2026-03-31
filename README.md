@@ -28,6 +28,12 @@ How to Run the Scripts
 To verify the scripts on your local Ubuntu environment, follow these steps:
 
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/SuryanshSky/oss-audit---24BSA10320-.git]
+   git clone [https://github.com/SuryanshSky/oss-audit---24BSA10320-.git](https://github.com/SuryanshSky/oss-audit---24BSA10320-.git)
+   cd oss-audit---24BSA10320-
+2.# Set permissions for all scripts
+chmod +x *.sh
+
+# Then you can run any of them, like the identity script:
+./script1.sh
+   
    
